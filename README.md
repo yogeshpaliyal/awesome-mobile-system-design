@@ -5,7 +5,7 @@ A comprehensive collection of the best resources around mobile design systems. T
 ---
 
 ## File Downloader
--[Mobile System Design Exercise: File Downloader Library](https://proandroiddev.com/mobile-system-design-exercise-file-downloader-library-ccb8ac0e5be4)
+- [Mobile System Design Exercise: File Downloader Library](https://proandroiddev.com/mobile-system-design-exercise-file-downloader-library-ccb8ac0e5be4)
 
 ### Image Loading Library
 - [Mobile System Design Exercise: Image Library](https://proandroiddev.com/mobile-system-design-exercise-image-library-83999eb0ad3c)
