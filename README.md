@@ -14,6 +14,8 @@ A comprehensive collection of the best resources around mobile design systems. T
 - [Common Interview Mistakes](https://proandroiddev.com/common-interview-mistakes-dba0518bb6c0)
 - 
 
+---
+
 ## Chat
 - [Mobile System Design Exercise: Chat Application](https://proandroiddev.com/mobile-system-design-exercise-chat-application-12223a0c1ac)
 
@@ -25,11 +27,14 @@ A comprehensive collection of the best resources around mobile design systems. T
 - [Design Cache Library for Mobile](https://medium.com/@engineervishvnath/design-cache-library-for-mobile-6e5e2cddfc73)
 - 
 
+---
+
 ### Apps
 #### Facebook
 - [System Design of Facebook’s Android App: An In-Depth Look](https://medium.com/@YodgorbekKomilo/system-design-of-facebooks-android-app-an-in-depth-look-00add9b180c9)
 - 
 
+---
 
 ## Other Sources
 - [atierian/MobileSystemsDesign](https://gist.github.com/atierian/610538f39a4844881e20b673f4c8e8dc)
