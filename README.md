@@ -32,7 +32,9 @@ A comprehensive collection of the best resources around mobile design systems. T
 ### Apps
 #### Facebook
 - [System Design of Facebook’s Android App: An In-Depth Look](https://medium.com/@YodgorbekKomilo/system-design-of-facebooks-android-app-an-in-depth-look-00add9b180c9)
-- 
+
+#### WhatsApp
+- [The System Design of WhatsApp for Android: Behind the Scenes of a Global Messaging Giant](https://medium.com/@YodgorbekKomilo/the-system-design-of-whatsapp-for-android-behind-the-scenes-of-a-global-messaging-giant-c80175b18016)
 
 ---
 
