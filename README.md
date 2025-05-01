@@ -1,5 +1,8 @@
 # Awesome Mobile System Design
 
+![a-repository-cover-image-for-awesome-mob_wRjCEa4-TS6hFCQEKiJWOA_Pwzl5nnRS0S8mn4J2H6Fdw](https://github.com/user-attachments/assets/442a3435-71a7-4fe1-b553-f2f4ce7cd057)
+
+
 A comprehensive collection of the best resources around mobile design systems. This repository includes guides, design patterns, architectural principles, and case studies to help developers create high-quality mobile applications.
 
 ---
@@ -12,7 +15,6 @@ A comprehensive collection of the best resources around mobile design systems. T
   
 - [Mobile System Design Exercise: Caching Library](https://proandroiddev.com/mobile-system-design-exercise-caching-library-8b3b5f1433cd)
 - [Common Interview Mistakes](https://proandroiddev.com/common-interview-mistakes-dba0518bb6c0)
-- 
 
 ---
 
@@ -25,7 +27,6 @@ A comprehensive collection of the best resources around mobile design systems. T
 ## Image Loading Library
 - [Mobile System Design Exercise: Image Library](https://proandroiddev.com/mobile-system-design-exercise-image-library-83999eb0ad3c)
 - [Design Cache Library for Mobile](https://medium.com/@engineervishvnath/design-cache-library-for-mobile-6e5e2cddfc73)
-- 
 
 ---
 
