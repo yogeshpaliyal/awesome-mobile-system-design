@@ -38,6 +38,14 @@ A comprehensive collection of the best resources around mobile design systems. T
 #### WhatsApp
 - [The System Design of WhatsApp for Android: Behind the Scenes of a Global Messaging Giant](https://medium.com/@YodgorbekKomilo/the-system-design-of-whatsapp-for-android-behind-the-scenes-of-a-global-messaging-giant-c80175b18016)
 
+---
+
+## Other Sources
+- [atierian/MobileSystemsDesign](https://gist.github.com/atierian/610538f39a4844881e20b673f4c8e8dc)
+- [A Simple Framework For Mobile System Design Interviews (work in progress)](https://github.com/weeeBox/mobile-system-design)
+
+---
+
 ## How to Contribute
 
 We welcome contributions from the community! Here are some ways you can contribute:
@@ -48,7 +56,7 @@ If you encounter any issues or have suggestions for improvements, please open an
 
 ### Suggesting New Resources
 
-If you have come across valuable resources related to Android development that are not included in this repository, feel free to suggest them. You can do this by opening an issue or submitting a pull request with the details of the resource.
+If you have come across valuable resources related to Mobile System Design that are not included in this repository, feel free to suggest them. You can do this by opening an issue or submitting a pull request with the details of the resource.
 
 ### Submitting Pull Requests
 
@@ -60,8 +68,3 @@ We encourage you to contribute to this repository by submitting pull requests. H
 4. Push your changes to your forked repository.
 5. Open a pull request, providing a detailed description of your changes.
 
----
-
-## Other Sources
-- [atierian/MobileSystemsDesign](https://gist.github.com/atierian/610538f39a4844881e20b673f4c8e8dc)
-- [A Simple Framework For Mobile System Design Interviews (work in progress)](https://github.com/weeeBox/mobile-system-design)
