@@ -8,6 +8,7 @@ A comprehensive collection of the best resources around mobile design systems. T
 ---
 
 ## General
+- [A Simple Framework For Mobile System Design Interviews (iOS & Android)](https://github.com/weeeBox/mobile-system-design)
 - [A Simple Framework For Mobile System Design Interviews](https://proandroiddev.com/a-simple-framework-for-mobile-system-design-interviews-89f6f4134b84)
 - [Additional Topics For Mobile System Design Interviews](https://proandroiddev.com/additional-topic-for-mobile-system-design-interviews-4c581cd93f0a)
 - [Grokking the Mobile System Design interview](https://artem-goncharov.medium.com/grokking-the-mobile-system-design-interview-6a06fa94491b)
