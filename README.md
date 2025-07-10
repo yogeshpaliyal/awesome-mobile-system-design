@@ -18,17 +18,19 @@ A comprehensive collection of the best resources around mobile design systems. T
 - [Common Interview Mistakes](https://proandroiddev.com/common-interview-mistakes-dba0518bb6c0)
 
 ---
-
-## Chat
+## Features
+### Chat
 - [Mobile System Design Exercise: Chat Application](https://proandroiddev.com/mobile-system-design-exercise-chat-application-12223a0c1ac)
 
-## File Downloader
+### File Downloader
 - [Mobile System Design Exercise: File Downloader Library](https://proandroiddev.com/mobile-system-design-exercise-file-downloader-library-ccb8ac0e5be4)
 
-## Image Loading Library
+### Image Loading Library
 - [Mobile System Design Exercise: Image Library](https://proandroiddev.com/mobile-system-design-exercise-image-library-83999eb0ad3c)
 - [Design Cache Library for Mobile](https://medium.com/@engineervishvnath/design-cache-library-for-mobile-6e5e2cddfc73)
 
+### Stories
+- [Mobile System Design - Instagram Stories](https://rahul9650ray.medium.com/mobile-system-design-instagram-stories-786e910d17a6)
 ---
 
 ### Apps
