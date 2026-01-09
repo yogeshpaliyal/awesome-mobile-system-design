@@ -18,6 +18,11 @@ A comprehensive collection of the best resources around mobile design systems. T
 - [Common Interview Mistakes](https://proandroiddev.com/common-interview-mistakes-dba0518bb6c0)
 
 ---
+
+## Books
+- [Mobile System Design Interview](https://geni.us/bbg-msd) - Also available from [Indian Publisher](https://www.shroffpublishers.com/books/9789368082255/)
+
+---
 ### Features
 #### Chat
 - [Mobile System Design Exercise: Chat Application](https://proandroiddev.com/mobile-system-design-exercise-chat-application-12223a0c1ac)
