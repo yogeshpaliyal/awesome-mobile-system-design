@@ -20,7 +20,7 @@ A comprehensive collection of the best resources around mobile design systems. T
 ---
 
 ## Books
-- [Mobile System Design Interview](https://geni.us/bbg-msd) - Available on [Amazon](https://geni.us/bbg-msd) and [Indian Publisher](https://www.shroffpublishers.com/books/9789368082255/)
+- [Mobile System Design Interview](https://geni.us/bbg-msd) - Also available from [Indian Publisher](https://www.shroffpublishers.com/books/9789368082255/)
 
 ---
 ### Features
